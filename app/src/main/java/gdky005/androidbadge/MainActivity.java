@@ -8,6 +8,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
+
+import gdky005.badge.Utils;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -26,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        Toast.makeText(this, "badge 的版本是：" + Utils.getVersion(),
+                Toast.LENGTH_SHORT).show();
     }
 
     @Override
