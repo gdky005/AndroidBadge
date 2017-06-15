@@ -30,23 +30,23 @@
 *精简版就看的清爽哈，以备自己玩的时候，快速查找相关资料和步骤。*
 
 这里优先汇总下：
-完整版：
-[打造一个高逼格的android开源项目——小白全攻略](#)
+完整版： <br>
+[打造一个高逼格的android开源项目——小白全攻略](#) <br>
 
-精简集合版：
-[徽章系列1： Top 30 android 开源项目徽章](#)
-[徽章系列2：JitPack 的使用](#)
-[徽章系列3： Travis CI 的使用](#)
-[徽章系列4： Circle CI 的使用](#)
-[徽章系列5： Codecov 的使用](#)
-[徽章系列6： Api\_Level 的使用](#)
-[徽章系列7： codacy 的使用](#)
-[徽章系列8：生成个性徽章](#)
-总分类：
-[徽章（shields ）系列文章总分类](#)
-github 地址：
-[徽章项目 Demo github 地址：](#)
- [https://github.com/gdky005/AndroidBadge](#)
+精简集合版： <br>
+[徽章系列1： Top 30 android 开源项目徽章](#) <br>
+[徽章系列2：JitPack 的使用](#) <br>
+[徽章系列3： Travis CI 的使用](#) <br>
+[徽章系列4： Circle CI 的使用](#) <br>
+[徽章系列5： Codecov 的使用](#) <br>
+[徽章系列6： Api\_Level 的使用](#) <br>
+[徽章系列7： codacy 的使用](#) <br>
+[徽章系列8：生成个性徽章](#) <br>
+总分类： <br>
+[徽章（shields ）系列文章总分类](#) <br>
+github 地址： <br>
+[徽章项目 Demo github 地址：](#) <br>
+ [https://github.com/gdky005/AndroidBadge](#) <br>
 
 **下面正文，正式开始。**
 
