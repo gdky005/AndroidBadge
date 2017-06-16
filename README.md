@@ -12,17 +12,16 @@
 
 # 打造一个高逼格的android开源项目——小白攻略
 
-
 ### 小引子
 
-在平时的开发过程中，我们经常会查阅很多的资料，最长使用的是 github 的开源项目。通常在项目的主页面能看到当前的项目的简介，并且时不时能在解决的最上面看到好多的彩色标签，看起来很酷，很专业，有逼格。一下子就能提升很多的好感度。
+在平时的开发过程中，我们经常会查阅很多的资料，最常参考的是 github 的开源项目。通常在项目的主页面能看到项目的简介和基本使用，并且时不时能看到页面汇中有好多的彩色标签，看起来很酷，很专业，很有逼格，能提升很多的好感度。
 
 
 ### 前言
 
-本文又是一篇很长的文章，如之前写的谋篇文章一样，基本是一口气连续两三天的写。写啊写啊写，不知道不觉就写了好多，其实有很多是素材图片，务必做到每个细节我都实践一遍。
+本文又是一篇很长的文章，如之前写的某篇文章一样，基本是一口气连续两三天的写。写啊写啊写，不知不觉就写了好多，其实有很多是素材图片，务必做到每个细节我都实践一遍。
 
-考虑到同学们的时间有限，各取所需，所以按照我的惯例，首先有一篇完整版，其次，有一篇缩略版。可是这次缩略版不好做，所以综合考虑，把每个单独的知识点拆分出来，抓住重点，尽量让大家看的开心。如有疑问，请 get 全文中提到的沟通交流方式。
+考虑到同学们的时间有限，各取所需，所以按照我的惯例，首先有一篇完整版，其次，有一篇缩略版。可是这次缩略版不好做，所以综合考虑，把每个单独的知识点拆分出来，抓住重点，尽量让大家看的开心。
 
 **这里需要提醒的是：**
 
@@ -30,23 +29,33 @@
 *精简版就看的清爽哈，以备自己玩的时候，快速查找相关资料和步骤。*
 
 这里优先汇总下：
-完整版： <br>
-[打造一个高逼格的android开源项目——小白全攻略](#) <br>
 
-精简集合版： <br>
-[徽章系列1： Top 30 android 开源项目徽章](#) <br>
-[徽章系列2：JitPack 的使用](#) <br>
-[徽章系列3： Travis CI 的使用](#) <br>
-[徽章系列4： Circle CI 的使用](#) <br>
-[徽章系列5： Codecov 的使用](#) <br>
-[徽章系列6： Api\_Level 的使用](#) <br>
-[徽章系列7： codacy 的使用](#) <br>
-[徽章系列8：生成个性徽章](#) <br>
-总分类： <br>
-[徽章（shields ）系列文章总分类](#) <br>
-github 地址： <br>
-[徽章项目 Demo github 地址：](#) <br>
- [https://github.com/gdky005/AndroidBadge](#) <br>
+
+
+
+
+
+### 相关链接：
+
+完整版：
+[打造一个高逼格的android开源项目——小白全攻略](http://www.gdky005.com/2017/06/15/%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E9%AB%98%E9%80%BC%E6%A0%BC%E7%9A%84android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E2%80%94%E2%80%94%E5%B0%8F%E7%99%BD%E5%85%A8%E6%94%BB%E7%95%A5/)
+
+精简集合版：
+[徽章系列1： Top 30 android 开源项目徽章](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%971%EF%BC%9A-Top-30-android-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%BE%BD%E7%AB%A0/)
+[徽章系列2：JitPack 的使用](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%972%EF%BC%9AJitPack-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+[徽章系列3： Travis CI 的使用](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%973%EF%BC%9A-Travis-CI-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+[徽章系列4： Circle CI 的使用](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%974%EF%BC%9A-Circle-CI-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+[徽章系列5： Codecov 的使用](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%975%EF%BC%9A-Codecov-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+[徽章系列6： Api\_Level 的使用](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%976%EF%BC%9A-Api-Level-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+[徽章系列7： codacy 的使用](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%977%EF%BC%9A-codacy-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+[徽章系列8：生成个性徽章](http://www.gdky005.com/2017/06/15/%E5%BE%BD%E7%AB%A0%E7%B3%BB%E5%88%978%EF%BC%9A%E7%94%9F%E6%88%90%E4%B8%AA%E6%80%A7%E5%BE%BD%E7%AB%A0/)
+
+总分类：
+[徽章（shields ）系列文章总分类](http://www.gdky005.com/categories/shields/)
+
+github 地址：
+[徽章项目 Demo github 地址：](https://github.com/gdky005/AndroidBadge)
+ [https://github.com/gdky005/AndroidBadge](https://github.com/gdky005/AndroidBadge)
 
 **下面正文，正式开始。**
 
@@ -168,7 +177,7 @@ AndroidBadge 里面的 badge (library) :
 1. 登录自己的 github 账号，然后创建一个 项目，在首页右边能看到：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-29.png)
 2. 点击 大绿色 按钮，并填写信息：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-30.png)。 那个协议，你们随意，这里只是演示。
 3. 创建成功后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-31.png)，拷贝当前项目地址。
-4. 在 AS 的项目中创建 git 仓库：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-32.png)， 点击后会让选择，直接 选择 ok 就行。将项目添加到 git 管理![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-33.png)。 项目中的文件都变成绿色后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-34.png)，耐心等待完成后， 本地项目已经被 git 管理起来了，然后把代码提交到 github 即可。可能会有冲突，自行解决即可。
+4. 在 AS 的项目中创建 git 仓库：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-32.png)， 点击后，直接 选择 ok。将项目添加到 git 管理![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-33.png)。 项目中的文件都变成绿色后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-34.png)，耐心等待完成后， 本地项目已经被 git 管理起来了，然后把代码提交到 github 即可。可能会有冲突，自行解决即可。
 5. 现在我们给 library 的 badge 项目添加一个工具类：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-35.png)， 并提交到 github。
 
 ##### Github 打 release or tag
@@ -389,7 +398,7 @@ Github上许多开源项目都使用了Codecov来展示单元测试结果， 就
 
 ### Codecov 的使用
 
-根据文中的指示：我们能看到一个开源的 github 项目 [https://github.com/codecov/example-android](https://github.com/codecov/example-android)， 不过看起来点晕晕的，但是还是看下了。
+根据文中的指示：我们能看到一个开源的 github 项目 [https://github.com/codecov/example-android](https://github.com/codecov/example-android)， 不过看起来点晕晕的，于是摸索了一段时间。
 
 我们之后都直接使用 Trivas CI 构建了。
 
@@ -593,6 +602,7 @@ A 表示的页面中需要显示的内容， B 表示的是图片的地址，D �
 
 ### 最后真想说一句
 咱们不玩虚的，玩点有技术含量的东西。
+
 
 
 
