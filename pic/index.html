@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<title>打造一个高逼格的 android 开源项目 攻略</title>
+	</head>
+<body>
+<h1>打造一个高逼格的 android 开源项目 攻略</h1>
+
+<h3>小引子</h3>
+
+<p>在平时的开发过程中，我们经常会查阅很多的资料，最长使用的是 github 的开源项目。通常在项目的主页面能看到当前的项目的简介，并且时不时能在解决的最上面看到好多的彩色标签，看起来很酷，很专业，有逼格。一下子就能提升很多的好感度。</p>
+
+<h3>范例</h3>
+
+<p><strong></strong></p>
+
+<p>我们以最流行的 android 开源项目 <a href="https://github.com/PhilJay/MPAndroidChart" title="MPAndroidChart">MPAndroidChart</a> 为例来看看。</p>
+
+<p><a href=""><img src="DraggedImage.png"/></a></p>
+
+<ol>
+	<li>前两个蓝色的标签：开始两个蓝色的标签是开源项目主要贡献者 Twitter 的联系方式，点击后可以跳入到 Twitter 的主页，查看该大神的 动态。</li>
+	<li>橘色的标签：是国外比较有名的 开源项目网站 <a href="https://android-arsenal.com">android-arsenal</a>， 很多开源项目都会在这里找到，有该项目的详细介绍。包含组员，版本号，github 项目基础信息等等。点击后会进入 MPAndroidChart 项目的首页，能看到有好多想知道的，不想知道的各种信息。</li>
+	<li>release蓝色的标签： 点击后能进入到比较有名的 <a href="https://jitpack.io/#PhilJay/MPAndroidChart">jitpack.io</a> 对应的MPAndroidChart 页面，直接获取 MPAndroidChart 的最新版本，也能看到之前的构建历史。下面会重点介绍 jitpack.io 的使用。</li>
+	<li>绿色的标签： 这个比较有意思，是 当前想支持的最低版本，MPAndroidChart的最低版本是 api-8。 点击后会进入到Android 2.2–2.2.3 Froyo (API level 8) 的详细介绍。这个功能是 android-arsenal 专门提供 开发者使用的。 下面也会有所介绍。</li>
+</ol>
+
+<p>下面我们将 这些标签称之为 徽章 （<a href="https://shields.io/">shields</a>）。</p>
+
+<h3>Top 30 android 开源项目徽章 (可以单独写一个文章)</h3>
+
+<p>我们尝试在 github 里面搜索 以 android 关键字 开发语言为 java 的开源项目。</p>
+
+<figure><img src="DraggedImage-1.png"/></figure>
+
+<p>统计情况如下：</p>
+
+<ol>
+	<li>Retrofit 0</li>
+	<li>okhttp 0</li>
+	<li>Butter Knife 0</li>
+	<li>MPAndroidChart 4 <img src="DraggedImage-2.png"/></li>
+	<li>Android-Universal-Image-Loader 2 <img src="DraggedImage-3.png"/></li>
+	<li>glide 1 <img src="DraggedImage-4.png"/></li>
+	<li>leakcanary 0 </li>
+	<li>EventBus 1 <img src="DraggedImage-5.png"/></li>
+	<li>picasso 0 </li>
+	<li>zxing 3 <img src="DraggedImage-6.png"/></li>
+	<li>iosched 0</li>
+	<li>Fresco 1 <img src="DraggedImage-7.png"/></li>
+	<li>lottie-android 0</li>
+	<li>RxAndroid 3 <img src="DraggedImage-8.png"/></li>
+	<li>libgdx 1 <img src="DraggedImage-9.png"/></li>
+	<li>SlidingMenu 0</li>
+	<li>PhotoView 1 <img src="DraggedImage-10.png"/></li>
+	<li>android-async-http 1 <img src="DraggedImage-11.png"/></li>
+	<li>material-dialogs 5 <img src="DraggedImage-12.png"/></li>
+	<li>AndroidUtilCode 0</li>
+	<li>androidannotations 3 <img src="DraggedImage-13.png"/></li>
+	<li>Material-Animations 1 <img src="DraggedImage-14.png"/></li>
+	<li>fastjson 5 <img src="DraggedImage-15.png"/></li>
+	<li>ViewPagerIndicator 0 </li>
+	<li>plaid 0 </li>
+	<li>PocketHub 1 <img src="DraggedImage-16.png"/></li>
+	<li>tinker 4 <img src="DraggedImage-17.png"/></li>
+	<li>Android-CleanArchitecture 2 <img src="DraggedImage-18.png"/> <img src="DraggedImage-19.png"/></li>
+	<li>Android-PullToRefresh 0 </li>
+	<li>MaterialDesignLibrary 1 <img src="DraggedImage-20.png"/></li>
+</ol>
+
+<p>我们是筛选容器就是 30个，统计日期：2017年04月27日（随着时间推移，可能略微有变动）。使用标签的有 18个，未使用的有12个。 使用概率大约是：60%。如果筛选容器的范围再大一点可能更多，没有使用徽章的12个项目，可能由于历史原因，或者个人原因未使用，但是不管怎么说，使用徽章的人会越来越多。</p>
+
+<h3>为什么要使用徽章？</h3>
+
+<p>徽章 <a href="https://github.com/badges/shields">shields</a></p>
+
+<p>徽章的使用不仅仅是为了装 B，而是为了让开源想更高效。进入项目主页一眼能看出需要的东西，例如该项目能否编译通过，当前最新的版本是什么等。</p>
+
+<p>徽章能突出视野，github 默认给我们展示的是黑白世界，但是通过 徽章，将会得到改变。重要的信息可以一目了然。</p>
+
+<h3>最常用徽章有哪些？</h3>
+
+<p>一份不太靠谱的标准，不过你应该掌握:</p>
+
+<figure><img src="DraggedImage-21.png"/></figure>
+
+<p>（PS: 上图中的图标顺序对应下面的顺序）</p>
+
+<ol>
+	<li>jitpack 徽章：<a href="https://jitpack.io">JitPack</a> 是一个仓库，类似 maven，binary, 主要是帮我们生产 android 项目的 aar or jar 的平台。基于 GitHub，可以很方便将 library 发布到远程，然后可以用 gradle 依赖到任何一个项目中。</li>
+	<li>travis-ci 徽章：<a href="https://travis-ci.org">Travis-CI</a> 是一个线托管的CI服务，不需要自己搭服务器，在网页上点几下就好，用起来更方便。最重要的是，它对开源项目是免费的。</li>
+	<li>circle-ci 徽章：<a href="https://circleci.com/">Cricle-CI</a> 是也一个线托管的CI服务，和上面相同，不过这个相对来说比较好用一些，可以 SSH 到测试容器，方便在出问题的时候上去调试找原因，界面相对好看一些。</li>
+	<li>codecov 徽章：<a href="https://codecov.io">Codecov</a> 是开源的测试结果展示平台，将测试结果可视化。Github上许多开源项目都使用了Codecov来展示单测结果。</li>
+	<li>api level 徽章：<a href="https://android-arsenal.com/api">Api-Leavel</a> 是 android-arsenal 网站提供的 android api 展示的徽章。可以在项目主页中直接使用 badge 的内容。 </li>
+	<li>codacy 徽章：编程代码自动审查服务平台。帮助开发者及时发现代码中的 bug，提升软件运行质量，主要包括代码质量、语法规范、功能可用性方面的检查。</li>
+	<li>个人专属 徽章：<a href="https://shields.io/">shiedls</a> 根据自己的需求可以定制很多样式的徽章，全凭个人 爱好，怎么开心怎么玩。</li>
+</ol>
+
+<h3>环境说明</h3>
+
+<p>这里我用一个简单的 android 项目来做一个说明，其他语言也是可以的，这里仅仅展示一个实例。</p>
+
+<p>我的本机的android环境说明如下：</p>
+
+<ul>
+	<li>Mac</li>
+	<li>Android Studio 2.4 preview 4</li>
+	<li>gradle: 3.4.1</li>
+	<li>java: 1.8.0_73</li>
+	<li>buildToolsVersion: 25.0.2</li>
+	<li>compileSdkVersion: 25</li>
+	<li>minSdkVersion: 14</li>
+	<li>support: appcompat-v7:25.1.0</li>
+	<li>constraint: constraint-layout:1.0.0-beta4</li>
+	<li>classpath: com.android.tools.build:gradle:2.4.0-alpha4</li>
+</ul>
+
+<p>用其他版本或者环境也是可以的, 这里只是说明。 如果任何遇到问题，可以在我的博客里面留言，联系详情为：<a href="http://www.gdky005.com/about/">http://www.gdky005.com/about/</a> 因为该文的完整版真的很长，涉及到很多的技术，所以专门设立了 QQ群：621094999， 有疑问或非常感兴趣的同学，可以来次探讨，也许一些新功能就是你们发觉的呢。 （PS：本应该在文末尾添加联系方式的，但是无奈，很多网站都有爬虫系统，好不容易写的文章就被爬走了，导致很多小伙伴遇到问题后，各种留言，但是我就是看不到，所以这次采取特殊方式，见谅哈）</p>
+
+<h3>JitPack 的使用 </h3>
+
+<p>官网： <a href="https://jitpack.io">https://jitpack.io</a></p>
+
+<h5>创建 Android Library</h5>
+
+<ol>
+	<li>在 AS 中创建标准的 android 项目：<img src="DraggedImage-22.png"/></li>
+	<li>创建 Library：<img src="DraggedImage-23.png"/> <img src="DraggedImage-24.png"/> <img src="DraggedImage-25.png"/></li>
+	<li>创建 badge library 成功。</li>
+</ol>
+
+<h5>配置相关文件</h5>
+
+<p>进入 <a href="https://jitpack.io/docs/ANDROID/">jitpack android</a> 可以看到 jitpack 为我们提供的文档帮助。 <img src="DraggedImage-26.png"/></p>
+
+<ol>
+	<li>在项目的根目录下的 build.gradle 文件中添加：<img src="DraggedImage-27.png"/></li>
+	<li>在 library 下的 build.gradle 中添加：<img src="DraggedImage-28.png"/> ， 对应官网中说的 『group=&#39;com.github.YourUsername’』， 其实可以不写，写不写都会自动生成。 即使你写成了别的，最终还是以这样的格式输出。</li>
+</ol>
+
+<p>AndroidBadge 中 的 build.gradle :</p>
+
+<pre><code>classpath &#39;com.github.dcendents:android-maven-gradle-plugin:1.5&#39; // Add this line
+</code></pre>
+
+<p>AndroidBadge 里面的 badge (library) :</p>
+
+<pre><code>apply plugin: &#39;com.github.dcendents.android-maven&#39;
+</code></pre>
+
+<h5>发布到 Github （这里直接展示 AS 中的界面图形操作，会命令行的同学随意）</h5>
+
+<ol>
+	<li>登录自己的 github 账号，然后创建一个 项目，在首页右边能看到：<img src="DraggedImage-29.png"/></li>
+	<li>点击 大绿色 按钮，并填写信息：<img src="DraggedImage-30.png"/>。 那个协议，你们随意，这里只是演示。</li>
+	<li>创建成功后：<img src="DraggedImage-31.png"/>，拷贝当前项目地址。</li>
+	<li>在 AS 的项目中创建 git 仓库：<img src="DraggedImage-32.png"/>， 点击后会让选择，直接 选择 ok 就行。将项目添加到 git 管理<img src="DraggedImage-33.png"/>。 项目中的文件都变成绿色后：<img src="DraggedImage-34.png"/>，耐心等待完成后， 本地项目已经被 git 管理起来了，然后把代码提交到 github 即可。可能会有冲突，自行解决即可。</li>
+	<li>现在我们给 library 的 badge 项目添加一个工具类：<img src="DraggedImage-35.png"/>， 并提交到 github。</li>
+</ol>
+
+<h5>Github 打 release or tag</h5>
+
+<figure><img src="DraggedImage-36.png"/> <img src="DraggedImage-37.png"/></figure>
+
+<p>创建第一个 release 分支：<img src="DraggedImage-38.png"/></p>
+
+<p>发布成功以后就能看到: <img src="DraggedImage-39.png"/></p>
+
+<p>一般用 release 就可以了， 在适当的时候 用 tag。</p>
+
+<h5>在 JitPack 上生成 aar</h5>
+
+<ol>
+	<li>进入 <a href="https://jitpack.io/">https://jitpack.io/</a>。</li>
+	<li>将 github 的项目地址： <a href="https://github.com/gdky005/AndroidBadge">https://github.com/gdky005/AndroidBadge</a>， 直接拷贝 到 jitpack 网页中的文本框中。<img src="DraggedImage-40.png"/></li>
+	<li>点击 Look Up 后：<img src="DraggedImage-41.png"/>， 等里面的那个圈圈 转完 以后，出现 绿色的这个：<img src="DraggedImage-42.png"/> 说明已经发布 aar 成功，那么我们 可以直接使用了。 如果点开这个东西，会看到编译的和发布的过程。<img src="DraggedImage-43.png"/> </li>
+	<li>如果是红色的，说明有错误，点开查看，修改后重新构建。</li>
+</ol>
+
+<h5>在 app Demo 中测试是否生效</h5>
+
+<p>点击 get 后，能看到： <img src="DraggedImage-44.png"/></p>
+
+<ol>
+	<li>给项目根目录下的 build.gradle 添加：<img src="DraggedImage-45.png"/></li>
+	<li>给app 项目里面的 build.gradle 添加：<img src="DraggedImage-46.png"/></li>
+</ol>
+
+<p>AndroidBadge 中 的 build.gradle :</p>
+
+<pre><code>maven { url &#39;https://jitpack.io&#39; }
+</code></pre>
+
+<p>AndroidBadge 里面的 app 的 build.gradle :</p>
+
+<pre><code>compile &#39;com.github.gdky005:AndroidBadge:v1.0.0&#39;
+</code></pre>
+
+<p>好的，现在我们已经添加成功了，在 MainActivity 里面是是吧，看能否调到之前在 library 里面的写的 Utils.getVersion()。很高兴的是我们调出来了：<img src="DraggedImage-47.png"/></p>
+
+<p>在项目的最底下也能看到： <img src="DraggedImage-48.png"/>。 运行 app 项目：<img src="DraggedImage-49.png"/></p>
+
+<h5>问题来了，我们修改library 后也能调用到吗？</h5>
+
+<p>让咱们一起试试吧：</p>
+
+<ol>
+	<li>修改 badge 项目中的 1.0.0 为 1.0.1 ： <img src="DraggedImage-50.png"/>。</li>
+	<li>提交代码后，push 到 github。 提交成功以后，我们重复上面的打 release 步骤 <img src="DraggedImage-51.png"/>, <img src="DraggedImage-52.png"/>, <img src="DraggedImage-53.png"/></li>
+	<li>然后再去 jitpack 上看看：<img src="DraggedImage-54.png"/> 多了一个 v1.0.1, 点击 get 吧。<img src="DraggedImage-55.png"/> <img src="DraggedImage-56.png"/> <img src="DraggedImage-57.png"/></li>
+	<li>发布成功后，我们去 app 里面试试。 <img src="DraggedImage-58.png"/></li>
+	<li>同步后，直接运行 app。非常好，我们的修改的东西已经变了：<img src="DraggedImage-59.png"/>。</li>
+</ol>
+
+<p>至此， jitpack 基本也差不多了，但是貌似缺少了最重要的一点吧。</p>
+
+<h5>jitpack 的徽章怎么弄</h5>
+
+<p>还是在刚刚的 jitpack 界面，只是我们把 页面拉倒底部。<img src="DraggedImage-60.png"/> 点击后：<img src="DraggedImage-61.png"/> 是不是看到了熟悉的 md 文档的格式呢？ 看不懂也没关系，下面会专门讲解。</p>
+
+<ol>
+	<li>拷贝内容：<img src="DraggedImage-62.png"/></li>
+	<li>打开 github 的 AndroidBridge 项目：<img src="DraggedImage-63.png"/>，点击该文件。</li>
+	<li>让我们在线编辑下： <img src="DraggedImage-64.png"/></li>
+	<li>给 github 中的 这个 readme.md 文件添加点东西吧。<img src="DraggedImage-65.png"/></li>
+	<li>让我们 保存下。 <img src="DraggedImage-66.png"/></li>
+	<li>然后回到项目<a href="https://github.com/gdky005/AndroidBadge">首页</a>看看：<img src="DraggedImage-67.png"/> 棒棒的，添加成功。</li>
+</ol>
+
+<h3>Travis CI 的使用</h3>
+
+<p>官网： <a href="http://travis-ci.org/">http://travis-ci.org/</a></p>
+
+<p>ps: 这个是公开的，如果需要使用私有的，请使用 .com 域名。</p>
+
+<p>需要提醒的是：每次提交代码后都会重新下载需要的资源文件哦，所以时间很长，耐心等待吧。</p>
+
+<h5>TravisCI 有什么用？</h5>
+
+<p>travis-ci 就是 自动化 CI 工具，类似于大公司经常使用的 Jenkins，但是 travis-ci 是在云端的，而是支持 github, 还免费，我们可以 用 travis-ci 做很多的事情，不仅仅是 编译看 项目有没有问题。例如在项目构建结束以后，我们可以打包，并发布 apk 到都 蒲公英， fir，也可以用邮件通知给相关的开发人员和业务任务。 做一些简单处理，轻轻松松。这部分内容到后面尽快整理，在写一篇。</p>
+
+<h5>添加 github 项目到 travis-ci</h5>
+
+<ol>
+	<li>进入 Travis 官网后，使用 GitHub 账号 登录，成功后：<img src="DraggedImage-68.png"/>。</li>
+	<li>点击 加号 ，能看到你 GitHub 里面的所有：<img src="DraggedImage-69.png"/>， 如果没有项目或者没有你新建的项目，请点击右上方的 Sync account 按钮。</li>
+	<li>点击这里：<img src="DraggedImage-70.png"/>，开启 Travis 构建。点击这个可以配置该项目：<img src="DraggedImage-71.png"/></li>
+	<li>默认是空的：<img src="DraggedImage-72.png"/></li>
+</ol>
+
+<h5>在 项目中添加 travis-ci 需要的 .travis.yml 文件</h5>
+
+<ol>
+	<li>在项目根目录下直接创建 一个 .travis.yml 的文件。<img src="DraggedImage-73.png"/></li>
+	<li>直接在文件里面添加代码：<img src="DraggedImage-74.png"/></li>
+</ol>
+
+<p><strong>.travis.yml 文件 源代码</strong></p>
+
+<pre><code>language: android
+jdk: oraclejdk8
+sudo: false
+
+android:
+  components:
+    - tools
+    - build-tools-25.0.2
+    - android-25
+    - extra-android-m2repository
+    - extra-android-support
+  licenses:
+      - android-sdk-license-.+
+      - &#39;.+&#39;
+
+before_install:
+  - chmod +x gradlew
+  - mkdir &quot;$ANDROID_HOME/licenses&quot; || true
+  - echo -e &quot;\n8933bad161af4178b1185d1a37fbf41ea5269c55&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-license&quot;
+  - echo -e &quot;\n84831b9409646a918e30573bab4c9c91346d8abd&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-preview-license&quot;
+
+script:
+  - ./gradlew assembleRelease
+
+</code></pre>
+
+<p>因为该文很长很长，所以暂时就不解释具体含义了，可以看看官方文档。</p>
+
+<h5>push 项目到 github, travis-ci 自动监测构建</h5>
+
+<ol>
+	<li>提交到代码，并 push 到 github。会自动触发 Travis 的自动构建。<img src="DraggedImage-75.png"/></li>
+	<li>下面黑色部分是构建的过程：<img src="DraggedImage-76.png"/>， 黑框上的白色点点点击后会变成绿色，会自动滚动到最下面。<img src="DraggedImage-77.png"/></li>
+</ol>
+
+<p>喝一杯咖啡，慢慢等待吧，最难熬的时候已经过去，此刻是享受的时候了。<img src="DraggedImage-78.png"/></p>
+
+<p>回到首页刷新后，能看到：<img src="DraggedImage-79.png"/> 说明我们已经构建成功了。</p>
+
+<h5>.travis.yml 需要注意的地方</h5>
+
+<p>初次使用 Travis 的试试，总遇到 说 android 的一些协议未接受而构建失败，导致耗费了一两天，曾经一度想放弃，但是最终坚持了下来，通过各种搜索，摸索，猜测，终于搞定。其实最初的项目是这个：<a href="https://github.com/gdky005/TestJitpack">https://github.com/gdky005/TestJitpack</a> ，里面有很多辛酸史记录，从提交记录能看得出来，有兴趣的可以研究研究，也许能解决你现在的问题。</p>
+
+<p>Travis CI 协议问题解决方法：<a href="http://stackoverflow.com/questions/37615379/travis-ci-build-doesnt-work-with-android-constraint-layout">http://stackoverflow.com/questions/37615379/travis-ci-build-doesnt-work-with-android-constraint-layout</a></p>
+
+<p>最重要部分在这里：</p>
+
+<pre><code>machine:
+  environment:
+	  ANDROID_HOME: /usr/local/android-sdk-linux
+
+dependencies:
+  pre:
+	- mkdir -p &quot;$ANDROID_HOME/licenses&quot;
+	- echo -e &quot;\n8933bad161af4178b1185d1a37fbf41ea5269c55&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-license&quot;
+	- echo -e &quot;\n84831b9409646a918e30573bab4c9c91346d8abd&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-preview-license&quot;
+</code></pre>
+
+<h5>添加 travis-ci 徽章到 github</h5>
+
+<p>激动的时刻再次到来，让我们找找徽章在哪里呢？</p>
+
+<figure><img src="DraggedImage-80.png"/></figure>
+
+<p>让我们来选择 markdonw 格式：<img src="DraggedImage-81.png"/> 并复制上。</p>
+
+<p>同样如上修改 readme.md。 <img src="DraggedImage-82.png"/></p>
+
+<p>加空格后，直接贴上去：<img src="DraggedImage-83.png"/>，这里需要说明的是，如果换成，图标也会换行哦。这样写就能保证所有的图标在一行了。</p>
+
+<p>回到项目首页以后就能发现：<img src="DraggedImage-84.png"/></p>
+
+<p>添加 Travis 徽章成功。</p>
+
+<p>Bye the way! 上面是最初级的构建过程，如果遇到单元测试就不行了，还得参考 我的开源项目 <a href="https://github.com/gdky005/TestJitpack">TestJitpack</a>。 不过有点乱，后面整理下。</p>
+
+<h3>Circle CI 的使用</h3>
+
+<p> 官网: <a href="https://circleci.com/">https://circleci.com/</a></p>
+
+<h5>Circle CI 和 Travis CI 有什么区别？需要一起使用吗？</h5>
+
+<p>Circle CI 相对来说比 Travis CI 好一些，至少界面上来说哈。还提供 ssh 的连接，构建过程相对来说 比较透明直观。例如：<img src="DraggedImage-85.png"/></p>
+
+<p>Travis CI 的文档资料相对 Circle CI 来说 比较多， Circle CI 资料少之又少。</p>
+
+<p>Travis CI 的使用率还是很高的， 不过 Circle CI 相对来说比较 年轻化，符合主流的科技感，更智能。</p>
+
+<p>说到是否需要一起使用，其实都行，不过我在观察 github 主流项目的时候 有不少项目都是同时使用的，多一个技能总没有坏处吧。其实会了 Travis CI，在加 Circle CI 真是简单不少呢，只是基本语法不太一样。</p>
+
+<h5>添加项目到 Circle CI</h5>
+
+<ol>
+	<li>登录主页面：<img src="DraggedImage-86.png"/>， 在 project 里面自己的账号下搜索刚创建的项目。</li>
+	<li>一般直接选择 Ubuntu 即可:<img src="DraggedImage-87.png"/>,点击绿色 Build project.<img src="DraggedImage-88.png"/></li>
+	<li>能看到：<img src="DraggedImage-89.png"/>， 但是这次肯定会失败，因为我们还没有添加 Circle 需要的文件呢。</li>
+</ol>
+
+<h5>在 项目中添加 Circle CI 需要的 circle.yml 文件</h5>
+
+<ol>
+	<li>在项目的根目录下 添加 circle.yml 文件；</li>
+	<li>添加 circle 的代码到文件中：<img src="DraggedImage-90.png"/></li>
+</ol>
+
+<p><strong>circle.yml 源代码：</strong></p>
+
+<pre><code>machine:
+  java:
+      version: oraclejdk8
+  environment:
+      ANDROID_HOME: /usr/local/android-sdk-linux
+
+dependencies:
+  pre:
+    - mkdir -p &quot;$ANDROID_HOME/licenses&quot;
+    - echo -e &quot;\n8933bad161af4178b1185d1a37fbf41ea5269c55&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-license&quot;
+    - echo -e &quot;\n84831b9409646a918e30573bab4c9c91346d8abd&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-preview-license&quot;
+
+
+  override:
+    - echo y | android update sdk --no-ui --filter &quot;android-25&quot;
+    - echo y | android update sdk --no-ui --filter &quot;build-tools-25.0.2&quot;
+    - echo y | android update sdk --no-ui --filter &quot;extra-android-m2repository&quot;
+    - echo y | android update sdk --no-ui --filter &quot;extra-android-support&quot;
+    - echo y | android update sdk --no-ui --filter &quot;extra-google-m2repositor&quot;
+    - ./gradlew dependencies || true
+
+test:
+  override:
+    - ./gradlew build
+</code></pre>
+
+<h5>push 项目到 github, Circle CI 自动监测构建</h5>
+
+<ol>
+	<li>提交代码后，发布到 github，Circle CI 会自动执行。</li>
+	<li><img src="DraggedImage-91.png"/> 点击进来后，会看到：<img src="DraggedImage-92.png"/>， 说明已经开始 构建了， 下载需要的东西：<img src="DraggedImage-93.png"/>。</li>
+	<li>构建中的一些步骤：<img src="DraggedImage-94.png"/>， 相对 Travis 来说展示更直观。</li>
+	<li>看到 <img src="DraggedImage-95.png"/> 说明构建成功。</li>
+</ol>
+
+<h5>添加 Circle CI 徽章到 github</h5>
+
+<p>我们再来把 Circle CI 的徽章找到，并添加到我们的 github 上去吧。<img src="DraggedImage-96.png"/><img src="DraggedImage-97.png"/></p>
+
+<p>我们把 徽章的 markdown 链接拷贝下来放入到我们的 主项目页面的里面。<img src="DraggedImage-98.png"/></p>
+
+<p>回项目主页刷新后：<img src="DraggedImage-99.png"/> 非常 happy, 已经添加成功了。</p>
+
+<h3>接下来添加什么呢？</h3>
+
+<p>Github上许多开源项目都使用了Codecov来展示单元测试结果， 就它了。</p>
+
+<h3>Codecov 的使用</h3>
+
+<p>根据文中的指示：我们能看到一个开源的 github 项目 <a href="https://github.com/codecov/example-android">https://github.com/codecov/example-android</a>， 不过看起来点晕晕的，但是还是看下了。</p>
+
+<p>我们之后都直接使用 Trivas CI 构建了。</p>
+
+<p>添加项目就不说了，进入后，点击 project changes, 找到自己的项目：<img src="DraggedImage-100.png"/>，等生产报告后，进入该网站就能看见结果。</p>
+
+<h5>利用 Jacoco 生成报告</h5>
+
+<p>Codecov不支持自己生成Android的测试覆盖率报告，它能做的是接收Jacoco生成的报告并进行可视化</p>
+
+<p>1） 在 app 的 build.gradle 文件中 添加依赖</p>
+
+<pre><code>		//Jacoco 生成报告的依赖
+    androidTestCompile(&#39;com.android.support.test:runner:0.5&#39;, {
+        exclude group: &#39;com.android.support&#39;, module: &#39;support-annotations&#39;
+    })
+    // Set this dependency to use JUnit 4 rules
+    androidTestCompile(&#39;com.android.support.test:rules:0.5&#39;, {
+        exclude group: &#39;com.android.support&#39;, module: &#39;support-annotations&#39;
+    })
+    // Espresso-contrib for DatePicker, RecyclerView, Drawer actions, Accessibility checks, CountingIdlingResource
+    androidTestCompile(&#39;com.android.support.test.espresso:espresso-contrib:2.2.2&#39;, {
+        exclude group: &#39;com.android.support&#39;, module: &#39;support-annotations&#39;
+        exclude group: &#39;com.android.support&#39;, module: &#39;support-v4&#39;
+        exclude group: &#39;com.android.support&#39;, module: &#39;appcompat-v7&#39;
+        exclude group: &#39;com.android.support&#39;, module: &#39;design&#39;
+        exclude group: &#39;com.android.support&#39;, module: &#39;recyclerview-v7&#39;
+    })
+    androidTestCompile(&#39;com.android.support.test.espresso:espresso-core:2.2.2&#39;, {
+        exclude group: &#39;com.android.support&#39;, module: &#39;support-annotations&#39;
+    })
+</code></pre>
+
+<p>2) 在 需要构建测试覆盖率报告的Module （AndroidBadge 项目中的 app） 的gradle文件中设置。 <img src="DraggedImage-101.png"/></p>
+
+<pre><code>debug{
+        testCoverageEnabled true
+}
+</code></pre>
+
+<p>3) 可以在尝试在本地生成报告：</p>
+
+<pre><code>./gradlew :app:createDebugAndroidTestCoverageReport 生成测试报告。  app 就是咱们项目中要测试的 module
+</code></pre>
+
+<p>测试报告地址：app/build/reports/coverage/debug/index.html。 </p>
+
+<h5>上报数据给 Codecov</h5>
+
+<ol>
+	<li>使用Github账号登录 https://codecov.io/， 并提供授权给该应用。</li>
+	<li>在.travis.yml文件中添加命令将测试覆盖率报告上传给Codecov。</li>
+</ol>
+
+<pre><code>after_success:
+    - bash &lt;(curl -s https://codecov.io/bash)
+
+</code></pre>
+
+<figure><img src="DraggedImage-102.png"/></figure>
+
+<h5>Codecov 需要用到 单元测试，所以必须要在 配置文件中添加模拟器</h5>
+
+<p>因为之前修改过很多次，过程很繁琐，直接给配置文件了，相信大家一眼就能看出来。</p>
+
+<p>完整的配置文件是：</p>
+
+<pre><code>language: android
+jdk: oraclejdk8
+sudo: false
+
+env:
+  global:
+      - ANDROID_API_LEVEL=25
+      - ANDROID_BUILD_TOOLS_VERSION=25.0.2
+      - ANDROID_ABI=armeabi-v7a
+      - ANDROID_TAG=google_apis
+      - ADB_INSTALL_TIMEOUT=20 # minutes (2 minutes by default)
+
+android:
+  components:
+    - platform-tools
+    - tools # to install Android SDK tools 25.1.x
+    - build-tools-$ANDROID_BUILD_TOOLS_VERSION
+    - android-$ANDROID_API_LEVEL
+    - sys-img-armeabi-v7a-google_apis-$ANDROID_API_LEVEL
+
+  licenses:
+      - android-sdk-license-.+
+      - &#39;.+&#39;
+
+before_install:
+  - chmod +x gradlew
+  - mkdir &quot;$ANDROID_HOME/licenses&quot; || true
+  - echo -e &quot;\n8933bad161af4178b1185d1a37fbf41ea5269c55&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-license&quot;
+  - echo -e &quot;\n84831b9409646a918e30573bab4c9c91346d8abd&quot; &gt; &quot;$ANDROID_HOME/licenses/android-sdk-preview-license&quot;
+
+before_script:
+  # Create and start emulator
+  - echo no | android create avd --force -n test -t &quot;android-&quot;$ANDROID_API_LEVEL --abi $ANDROID_ABI --tag $ANDROID_TAG
+  - emulator -avd test -no-skin -no-window &amp;
+  - android-wait-for-emulator
+  - adb shell input keyevent 82 &amp;
+
+script:
+  - ./gradlew assembleRelease
+  - ./gradlew :app:createDebugAndroidTestCoverageReport --info --stacktrace
+
+after_success:
+  - bash &lt;(curl -s https://codecov.io/bash)
+</code></pre>
+
+<h5>codecov 总结</h5>
+
+<p>Travis-CI 对 android 的单元测试支持不是很好，因为需要开启虚拟机，开启这个过程就得10分钟（我的测试时间），很耗费时间。有时候也连接不上，一次跑下来估计得个 20分钟左右吧。所以，稳定性确实不是很高。如果不做单元测试，而只是做发布之类的，稳定性还是高的。 </p>
+
+<p>单元测试应都会吧， 这里检测的标准就是说 每个类和方法都必须检测到，否则就算没有覆盖。我这里也就简单在项目中写过例子，剩下的你们自己玩吧。 <img src="DraggedImage-103.png"/></p>
+
+<p><strong>所以 要不要使用单元测试 还是根据项目决定吧。 </strong></p>
+
+<h5>获取 codecov 的徽章</h5>
+
+<figure><img src="DraggedImage-104.png"/></figure>
+
+<h3>Api_Level 的使用</h3>
+
+<p>让 codecov 慢慢构建吧，我们先继续。</p>
+
+<p>官网：<a href="https://android-arsenal.com/api">https://android-arsenal.com/api</a></p>
+
+<h5>Api_Level 有什么用？</h5>
+
+<p>Api_Level 是 arsenal 网站给各位开发者的一个福利，我们的 android 开源项目一般都有一个最低的构建版本。平时我们都是在 md 文件中写上 支持版本是 14+等很多样式，但是 不够醒目，有了 Api_Level 后，打开开源项目主页就知道，最低版本是多少。 不用看文档也能明白，轻松不少。 对应的 api 的一些特性和修改也能在这里展现。</p>
+
+<h5>Api_Level 怎么玩？</h5>
+
+<p>如果你的开源项目最低支持版本是：14，那么就选择这里：<img src="DraggedImage-105.png"/> <img src="DraggedImage-106.png"/></p>
+
+<p>把这个拷贝下来，放入我们的 md 文档中吧。 <img src="DraggedImage-107.png"/></p>
+
+<h3>codacy 的使用</h3>
+
+<p>官网： <a href="https://www.codacy.com">https://www.codacy.com</a></p>
+
+<h5>codacy 是什么？</h5>
+
+<p>codacy 编程代码自动审查服务平台，可以帮我们分析存在的问题 或者说是 bug,主要包括代码质量、语法规范、功能可用性方面的检查。</p>
+
+<h5>codacy 怎么使用？</h5>
+
+<p>进入官网，添加自己的需要的 project。<img src="DraggedImage-108.png"/></p>
+
+<p>完成后，等待一段时间就好了，会给你发邮件通知，已经完成。</p>
+
+<p>完成后的效果是：<img src="DraggedImage-109.png"/>，咱们的这个项目评级是 B。</p>
+
+<h5>codacy 徽章呢？</h5>
+
+<figure><img src="DraggedImage-110.png"/></figure>
+
+<p>拷贝下来，手动放到 咱们的项目的 md 文档中把。比较放心一些，如果点击后面的 add badge ,会自动加到项目中，需要我们 pull request 里面处理下。</p>
+
+<p>搞定。</p>
+
+<h3>生成个性徽章</h3>
+
+<p>官网： <a href="https://shields.io/">https://shields.io/</a></p>
+
+<h5>有什么用？</h5>
+
+<p>彰显个人魅力，体现某种功能。例如咱们做一个跳转到我的博客的 个人徽章。</p>
+
+<h5>怎么玩？</h5>
+
+<p>滚动网页到最下面：<img src="DraggedImage-111.png"/></p>
+
+<p>在对应的地方填写相应的东西（也支持中文哦）， 完成后点击后面的 Make Badge 按钮试试看。</p>
+
+<p>我想我的个人图标是这种浅蓝色： <img src="DraggedImage-112.png"/> ，那么我就在 color 中直接写：7AD6FD</p>
+
+<p><img src="DraggedImage-113.png"/> 点击生成 一个地址， 先保存下面。</p>
+
+<h5>这个原理是什么呢？ （回答最开始的问题）</h5>
+
+<p>徽章的格式即是 markdown 的格式: </p>
+
+<pre><code>[![A\](B)\](D)
+</code></pre>
+
+<p>A 表示的页面中需要显示的内容， B 表示的是图片的地址，D 表示的是点击后需要跳转的链接的地址。</p>
+
+<h5>合成我的个人专属图标吧</h5>
+
+<p>图片地址是上面存下来的。 前面显示内容：作者。按照上面的规范出来的结果就是：</p>
+
+<pre><code>[![作者\](https:\//img.shields.io\/badge\/%E4%BD%9C%E8%80%85-gdky005-7AD6FD.svg)\](http:\//www.gdky005.com)
+</code></pre>
+
+<p>把这段代码 粘贴到 我们的 md 文档中，个性专属徽章就出来了，而且点击后能到我们想去的地方。</p>
+
+<figure><img src="DraggedImage-114.png"/></figure>
+
+<p>很酷吧，其实还可以做很多这样的事情。</p>
+
+<p>本文的 中的 项目地址是： <a href="https://github.com/gdky005/AndroidBadge">https://github.com/gdky005/AndroidBadge</a></p>
+
+<p>需要逐步了解项目的过程或者 根据步骤出现问题的话，可以check 对应的节点，看看代码是否不同，然后自行修改，我特意保存了该进度。如果下图中 git提交的记录：<img src="DraggedImage-115.png"/> <img src="DraggedImage-116.png"/> </p>
+
+<p>相信小伙伴们肯定能做出更有意思的东西，到时候记得与我和大家分享，比较有特色的，我会将你们的链接挂载到 github 项目里面。</p>
+
+<p>因为该文真的很长，涉及到很多的技术，所以专门设立了 QQ群：621094999， 有需要帮助或许分享新技能的小伙伴请进入。</p>
+
+<p>本文完整地址请在 <a href="http://www.gdky005.com/">我的博客</a> 里面查看，会修复 文章存在的问题，并补充一些相关细节。针对 小伙伴们提出的问题，将在博客中修改和增加。如果大家觉得不错，并且很喜欢的话，麻烦 GitHub 中 start 下，不胜感激。</p>
+
+<h3>最后真想说一句</h3>
+
+<p>咱们不玩虚的，玩点有技术含量的东西。</p>
+
+</body>
+</html>
+
