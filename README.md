@@ -64,7 +64,7 @@ github 地址：
 
 我们以最流行的 android 开源项目 [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart "MPAndroidChart") 为例来看看。
 
-[![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-0.png)](#)
+[![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-0.png)](#)
 
 1. 前两个蓝色的标签：开始两个蓝色的标签是开源项目主要贡献者 Twitter 的联系方式，点击后可以跳入到 Twitter 的主页，查看该大神的 动态。
 2. 橘色的标签：是国外比较有名的 开源项目网站 [android-arsenal](https://android-arsenal.com)， 很多开源项目都会在这里找到，有该项目的详细介绍。包含组员，版本号，github 项目基础信息等等。点击后会进入 MPAndroidChart 项目的首页，能看到有好多想知道的，不想知道的各种信息。
@@ -76,39 +76,39 @@ github 地址：
 ### Top 30 android 开源项目徽章 
 
 我们尝试在 github 里面搜索 以 android  关键字 开发语言为 java 的开源项目。
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-1.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-1.png)
 统计情况如下：
 
 1. Retrofit 0
 2. okhttp 0
 3. Butter Knife 0
-4. MPAndroidChart 4 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-2.png)
-5. Android-Universal-Image-Loader 2 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-3.png)
-6. glide 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-4.png)
+4. MPAndroidChart 4 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-2.png)
+5. Android-Universal-Image-Loader 2 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-3.png)
+6. glide 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-4.png)
 7. leakcanary 0 
-8. EventBus 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-5.png)
+8. EventBus 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-5.png)
 9. picasso 0 
-10. zxing 3 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-6.png)
+10. zxing 3 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-6.png)
 11. iosched 0
-12. Fresco 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-7.png)
+12. Fresco 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-7.png)
 13. lottie-android 0
-14. RxAndroid 3 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-8.png)
-15. libgdx 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-9.png)
+14. RxAndroid 3 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-8.png)
+15. libgdx 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-9.png)
 16. SlidingMenu 0
-17. PhotoView 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-10.png)
-18. android-async-http 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-11.png)
-19. material-dialogs 5 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-12.png)
+17. PhotoView 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-10.png)
+18. android-async-http 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-11.png)
+19. material-dialogs 5 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-12.png)
 20. AndroidUtilCode 0
-21. androidannotations 3 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-13.png)
-22. Material-Animations 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-14.png)
-23. fastjson 5 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-15.png)
+21. androidannotations 3 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-13.png)
+22. Material-Animations 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-14.png)
+23. fastjson 5 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-15.png)
 24. ViewPagerIndicator 0 
 25. plaid 0 
-26. PocketHub 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-16.png)
-27. tinker 4 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-17.png)
-28. Android-CleanArchitecture 2  ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-18.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-19.png)
+26. PocketHub 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-16.png)
+27. tinker 4 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-17.png)
+28. Android-CleanArchitecture 2  ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-18.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-19.png)
 29. Android-PullToRefresh 0 
-30. MaterialDesignLibrary 1 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-20.png)
+30. MaterialDesignLibrary 1 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-20.png)
 
 我们是筛选容器就是 30个，统计日期：2017年04月27日（随着时间推移，可能略微有变动）。使用标签的有 18个，未使用的有12个。 使用概率大约是：60%。如果筛选容器的范围再大一点可能更多，没有使用徽章的12个项目，可能由于历史原因，或者个人原因未使用，但是不管怎么说，使用徽章的人会越来越多。
 
@@ -121,7 +121,7 @@ github 地址：
 
 ### 最常用徽章有哪些？
 一份不太靠谱的标准，不过你应该掌握:
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-21.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-21.png)
 （PS: 上图中的图标顺序对应下面的顺序）
 
 1. jitpack 徽章：[JitPack](https://jitpack.io) 是一个仓库，类似 maven，binary, 主要是帮我们生产 android 项目的 aar or jar 的平台。基于 GitHub，可以很方便将 library 发布到远程，然后可以用 gradle 依赖到任何一个项目中。
@@ -156,13 +156,13 @@ github 地址：
 官网： [https://jitpack.io](https://jitpack.io)
 
 ##### 创建 Android Library
-1. 在 AS 中创建标准的 android 项目：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-22.png)
-2. 创建 Library：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-23.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-24.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-25.png)
+1. 在 AS 中创建标准的 android 项目：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-22.png)
+2. 创建 Library：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-23.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-24.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-25.png)
 3. 创建 badge library 成功。
 ##### 配置相关文件
-进入 [jitpack android](https://jitpack.io/docs/ANDROID/) 可以看到 jitpack 为我们提供的文档帮助。  ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-26.png)
-1. 在项目的根目录下的 build.gradle 文件中添加：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-27.png)
-2. 在 library 下的 build.gradle 中添加：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-28.png) ， 对应官网中说的 『group='com.github.YourUsername’』， 其实可以不写，写不写都会自动生成。 即使你写成了别的，最终还是以这样的格式输出。
+进入 [jitpack android](https://jitpack.io/docs/ANDROID/) 可以看到 jitpack 为我们提供的文档帮助。  ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-26.png)
+1. 在项目的根目录下的 build.gradle 文件中添加：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-27.png)
+2. 在 library 下的 build.gradle 中添加：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-28.png) ， 对应官网中说的 『group='com.github.YourUsername’』， 其实可以不写，写不写都会自动生成。 即使你写成了别的，最终还是以这样的格式输出。
 
 AndroidBadge 中 的 build.gradle :
 
@@ -174,30 +174,30 @@ AndroidBadge 里面的 badge (library) :
 
 ##### 发布到 Github （这里直接展示 AS 中的界面图形操作，会命令行的同学随意）
 
-1. 登录自己的 github 账号，然后创建一个 项目，在首页右边能看到：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-29.png)
-2. 点击 大绿色 按钮，并填写信息：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-30.png)。 那个协议，你们随意，这里只是演示。
-3. 创建成功后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-31.png)，拷贝当前项目地址。
-4. 在 AS 的项目中创建 git 仓库：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-32.png)， 点击后，直接 选择 ok。将项目添加到 git 管理![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-33.png)。 项目中的文件都变成绿色后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-34.png)，耐心等待完成后， 本地项目已经被 git 管理起来了，然后把代码提交到 github 即可。可能会有冲突，自行解决即可。
-5. 现在我们给 library 的 badge 项目添加一个工具类：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-35.png)， 并提交到 github。
+1. 登录自己的 github 账号，然后创建一个 项目，在首页右边能看到：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-29.png)
+2. 点击 大绿色 按钮，并填写信息：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-30.png)。 那个协议，你们随意，这里只是演示。
+3. 创建成功后：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-31.png)，拷贝当前项目地址。
+4. 在 AS 的项目中创建 git 仓库：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-32.png)， 点击后，直接 选择 ok。将项目添加到 git 管理![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-33.png)。 项目中的文件都变成绿色后：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-34.png)，耐心等待完成后， 本地项目已经被 git 管理起来了，然后把代码提交到 github 即可。可能会有冲突，自行解决即可。
+5. 现在我们给 library 的 badge 项目添加一个工具类：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-35.png)， 并提交到 github。
 
 ##### Github 打 release or tag
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-36.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-37.png)
-创建第一个 release 分支：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-38.png)
-发布成功以后就能看到: ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-39.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-36.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-37.png)
+创建第一个 release 分支：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-38.png)
+发布成功以后就能看到: ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-39.png)
 
 一般用 release 就可以了， 在适当的时候 用  tag。
 ##### 在 JitPack 上生成 aar
 1. 进入 [https://jitpack.io/](https://jitpack.io/)。
-2. 将 github 的项目地址： [https://github.com/gdky005/AndroidBadge](https://github.com/gdky005/AndroidBadge)， 直接拷贝 到 jitpack 网页中的文本框中。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-40.png)
-3. 点击 Look Up 后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-41.png)， 等里面的那个圈圈 转完 以后，出现 绿色的这个：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-42.png) 说明已经发布 aar 成功，那么我们 可以直接使用了。 如果点开这个东西，会看到编译的和发布的过程。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-43.png) 
+2. 将 github 的项目地址： [https://github.com/gdky005/AndroidBadge](https://github.com/gdky005/AndroidBadge)， 直接拷贝 到 jitpack 网页中的文本框中。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-40.png)
+3. 点击 Look Up 后：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-41.png)， 等里面的那个圈圈 转完 以后，出现 绿色的这个：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-42.png) 说明已经发布 aar 成功，那么我们 可以直接使用了。 如果点开这个东西，会看到编译的和发布的过程。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-43.png) 
 4. 如果是红色的，说明有错误，点开查看，修改后重新构建。
 
 ##### 在 app Demo 中测试是否生效
 
-点击 get 后，能看到： ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-44.png)
+点击 get 后，能看到： ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-44.png)
 
-1. 给项目根目录下的 build.gradle 添加：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-45.png)
-2. 给app 项目里面的 build.gradle 添加：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-46.png)
+1. 给项目根目录下的 build.gradle 添加：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-45.png)
+2. 给app 项目里面的 build.gradle 添加：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-46.png)
 
 AndroidBadge 中 的 build.gradle :
 
@@ -210,29 +210,29 @@ AndroidBadge 里面的 app 的 build.gradle :
 
 
 
-好的，现在我们已经添加成功了，在 MainActivity 里面是是吧，看能否调到之前在 library 里面的写的 Utils.getVersion()。很高兴的是我们调出来了：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-47.png)
-在项目的最底下也能看到： ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-48.png)。 运行 app 项目：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-49.png)
+好的，现在我们已经添加成功了，在 MainActivity 里面是是吧，看能否调到之前在 library 里面的写的 Utils.getVersion()。很高兴的是我们调出来了：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-47.png)
+在项目的最底下也能看到： ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-48.png)。 运行 app 项目：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-49.png)
 
 
 ##### 问题来了，我们修改library 后也能调用到吗？
 让咱们一起试试吧：
-1. 修改 badge 项目中的 1.0.0 为  1.0.1 ： ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-50.png)。
-2. 提交代码后，push 到 github。 提交成功以后，我们重复上面的打 release 步骤 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-51.png), ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-52.png), ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-53.png)
-3. 然后再去 jitpack 上看看：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-54.png) 多了一个 v1.0.1, 点击 get 吧。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-55.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-56.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-57.png)
-4. 发布成功后，我们去 app 里面试试。 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-58.png)
-5. 同步后，直接运行 app。非常好，我们的修改的东西已经变了：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-59.png)。
+1. 修改 badge 项目中的 1.0.0 为  1.0.1 ： ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-50.png)。
+2. 提交代码后，push 到 github。 提交成功以后，我们重复上面的打 release 步骤 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-51.png), ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-52.png), ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-53.png)
+3. 然后再去 jitpack 上看看：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-54.png) 多了一个 v1.0.1, 点击 get 吧。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-55.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-56.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-57.png)
+4. 发布成功后，我们去 app 里面试试。 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-58.png)
+5. 同步后，直接运行 app。非常好，我们的修改的东西已经变了：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-59.png)。
 
 至此， jitpack 基本也差不多了，但是貌似缺少了最重要的一点吧。
 
 ##### jitpack 的徽章怎么弄
 
-还是在刚刚的 jitpack 界面，只是我们把 页面拉倒底部。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-60.png) 点击后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-61.png) 是不是看到了熟悉的 md 文档的格式呢？ 看不懂也没关系，下面会专门讲解。
-1. 拷贝内容：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-62.png)
-2. 打开 github 的 AndroidBridge 项目：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-63.png)，点击该文件。
-3. 让我们在线编辑下： ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-64.png)
-4. 给 github 中的 这个 readme.md 文件添加点东西吧。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-65.png)
-5. 让我们 保存下。 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-66.png)
-6. 然后回到项目[首页](https://github.com/gdky005/AndroidBadge)看看：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-67.png) 棒棒的，添加成功。
+还是在刚刚的 jitpack 界面，只是我们把 页面拉倒底部。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-60.png) 点击后：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-61.png) 是不是看到了熟悉的 md 文档的格式呢？ 看不懂也没关系，下面会专门讲解。
+1. 拷贝内容：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-62.png)
+2. 打开 github 的 AndroidBridge 项目：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-63.png)，点击该文件。
+3. 让我们在线编辑下： ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-64.png)
+4. 给 github 中的 这个 readme.md 文件添加点东西吧。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-65.png)
+5. 让我们 保存下。 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-66.png)
+6. 然后回到项目[首页](https://github.com/gdky005/AndroidBadge)看看：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-67.png) 棒棒的，添加成功。
 
 
 ### Travis CI 的使用
@@ -245,14 +245,14 @@ ps: 这个是公开的，如果需要使用私有的，请使用 .com 域名。
 travis-ci 就是 自动化 CI 工具，类似于大公司经常使用的 Jenkins，但是 travis-ci 是在云端的，而是支持 github, 还免费，我们可以 用 travis-ci 做很多的事情，不仅仅是 编译看 项目有没有问题。例如在项目构建结束以后，我们可以打包，并发布 apk 到都 蒲公英， fir，也可以用邮件通知给相关的开发人员和业务任务。 做一些简单处理，轻轻松松。这部分内容到后面尽快整理，在写一篇。
 
 ##### 添加 github 项目到 travis-ci
-1. 进入 Travis 官网后，使用 GitHub 账号 登录，成功后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-68.png)。
-2. 点击 加号 ，能看到你 GitHub 里面的所有：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-69.png)， 如果没有项目或者没有你新建的项目，请点击右上方的   Sync account  按钮。
-3. 点击这里：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-70.png)，开启 Travis 构建。点击这个可以配置该项目：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-71.png)
-4. 默认是空的：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-72.png)
+1. 进入 Travis 官网后，使用 GitHub 账号 登录，成功后：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-68.png)。
+2. 点击 加号 ，能看到你 GitHub 里面的所有：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-69.png)， 如果没有项目或者没有你新建的项目，请点击右上方的   Sync account  按钮。
+3. 点击这里：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-70.png)，开启 Travis 构建。点击这个可以配置该项目：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-71.png)
+4. 默认是空的：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-72.png)
 
 ##### 在 项目中添加 travis-ci 需要的 .travis.yml 文件
-1. 在项目根目录下直接创建 一个 .travis.yml 的文件。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-73.png)
-2. 直接在文件里面添加代码：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-74.png)
+1. 在项目根目录下直接创建 一个 .travis.yml 的文件。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-73.png)
+2. 直接在文件里面添加代码：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-74.png)
 
 **.travis.yml 文件 源代码**
 
@@ -284,12 +284,12 @@ travis-ci 就是 自动化 CI 工具，类似于大公司经常使用的 Jenkins
 因为该文很长很长，所以暂时就不解释具体含义了，可以看看官方文档。
 
 ##### push 项目到 github, travis-ci 自动监测构建
-1. 提交到代码，并 push 到 github。会自动触发 Travis 的自动构建。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-75.png)
-2. 下面黑色部分是构建的过程：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-76.png)，  黑框上的白色点点点击后会变成绿色，会自动滚动到最下面。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-77.png)
+1. 提交到代码，并 push 到 github。会自动触发 Travis 的自动构建。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-75.png)
+2. 下面黑色部分是构建的过程：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-76.png)，  黑框上的白色点点点击后会变成绿色，会自动滚动到最下面。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-77.png)
 
-喝一杯咖啡，慢慢等待吧，最难熬的时候已经过去，此刻是享受的时候了。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-78.png)
+喝一杯咖啡，慢慢等待吧，最难熬的时候已经过去，此刻是享受的时候了。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-78.png)
 
-回到首页刷新后，能看到：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-79.png) 说明我们已经构建成功了。
+回到首页刷新后，能看到：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-79.png) 说明我们已经构建成功了。
 
 ##### .travis.yml 需要注意的地方
 
@@ -312,15 +312,15 @@ Travis CI 协议问题解决方法：[http://stackoverflow.com/questions/3761537
 
 ##### 添加 travis-ci 徽章到 github
 激动的时刻再次到来，让我们找找徽章在哪里呢？
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-80.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-80.png)
 
-让我们来选择 markdonw 格式：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-81.png) 并复制上。
+让我们来选择 markdonw 格式：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-81.png) 并复制上。
 
-同样如上修改 readme.md。 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-82.png)
+同样如上修改 readme.md。 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-82.png)
 
-加空格后，直接贴上去：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-83.png)，这里需要说明的是，如果换成，图标也会换行哦。这样写就能保证所有的图标在一行了。
+加空格后，直接贴上去：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-83.png)，这里需要说明的是，如果换成，图标也会换行哦。这样写就能保证所有的图标在一行了。
 
-回到项目首页以后就能发现：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-84.png)
+回到项目首页以后就能发现：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-84.png)
 
 添加 Travis 徽章成功。
 
@@ -333,7 +333,7 @@ Bye the way! 上面是最初级的构建过程，如果遇到单元测试就不�
  官网: [https://circleci.com/](https://circleci.com/)
 
 ##### Circle CI 和 Travis CI 有什么区别？需要一起使用吗？
-Circle CI 相对来说比 Travis CI 好一些，至少界面上来说哈。还提供 ssh 的连接，构建过程相对来说 比较透明直观。例如：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-85.png)
+Circle CI 相对来说比 Travis CI 好一些，至少界面上来说哈。还提供 ssh 的连接，构建过程相对来说 比较透明直观。例如：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-85.png)
 
 Travis CI 的文档资料相对 Circle CI 来说 比较多， Circle CI 资料少之又少。
 
@@ -342,14 +342,14 @@ Travis CI 的使用率还是很高的， 不过 Circle CI 相对来说比较 年
 说到是否需要一起使用，其实都行，不过我在观察 github 主流项目的时候 有不少项目都是同时使用的，多一个技能总没有坏处吧。其实会了 Travis CI，在加 Circle CI 真是简单不少呢，只是基本语法不太一样。
 
 ##### 添加项目到 Circle CI
-1. 登录主页面：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-86.png)， 在 project 里面自己的账号下搜索刚创建的项目。
-2. 一般直接选择 Ubuntu 即可:![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-87.png),点击绿色  Build project.![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-88.png)
-3. 能看到：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-89.png)， 但是这次肯定会失败，因为我们还没有添加 Circle 需要的文件呢。
+1. 登录主页面：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-86.png)， 在 project 里面自己的账号下搜索刚创建的项目。
+2. 一般直接选择 Ubuntu 即可:![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-87.png),点击绿色  Build project.![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-88.png)
+3. 能看到：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-89.png)， 但是这次肯定会失败，因为我们还没有添加 Circle 需要的文件呢。
 
 ##### 在 项目中添加 Circle CI 需要的 circle.yml 文件
 
 1. 在项目的根目录下 添加 circle.yml 文件；
-2. 添加 circle 的代码到文件中：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-90.png)
+2. 添加 circle 的代码到文件中：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-90.png)
 
 **circle.yml 源代码：**
 
@@ -381,16 +381,16 @@ Travis CI 的使用率还是很高的， 不过 Circle CI 相对来说比较 年
 ##### push 项目到 github, Circle CI 自动监测构建
 
 1. 提交代码后，发布到 github，Circle CI 会自动执行。
-2. ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-91.png) 点击进来后，会看到：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-92.png)， 说明已经开始 构建了， 下载需要的东西：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-93.png)。
-3. 构建中的一些步骤：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-94.png)， 相对 Travis 来说展示更直观。
-4. 看到 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-95.png) 说明构建成功。
+2. ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-91.png) 点击进来后，会看到：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-92.png)， 说明已经开始 构建了， 下载需要的东西：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-93.png)。
+3. 构建中的一些步骤：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-94.png)， 相对 Travis 来说展示更直观。
+4. 看到 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-95.png) 说明构建成功。
 
 ##### 添加 Circle CI 徽章到 github
-我们再来把 Circle CI 的徽章找到，并添加到我们的 github 上去吧。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-96.png)![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-97.png)
+我们再来把 Circle CI 的徽章找到，并添加到我们的 github 上去吧。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-96.png)![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-97.png)
 
-我们把 徽章的 markdown 链接拷贝下来放入到我们的 主项目页面的里面。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-98.png)
+我们把 徽章的 markdown 链接拷贝下来放入到我们的 主项目页面的里面。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-98.png)
 
-回项目主页刷新后：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-99.png) 非常 happy, 已经添加成功了。
+回项目主页刷新后：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-99.png) 非常 happy, 已经添加成功了。
 
 
 ### 接下来添加什么呢？
@@ -402,7 +402,7 @@ Github上许多开源项目都使用了Codecov来展示单元测试结果， 就
 
 我们之后都直接使用 Trivas CI 构建了。
 
-添加项目就不说了，进入后，点击 project changes, 找到自己的项目：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-100.png)，等生产报告后，进入该网站就能看见结果。
+添加项目就不说了，进入后，点击 project changes, 找到自己的项目：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-100.png)，等生产报告后，进入该网站就能看见结果。
 
 ##### 利用 Jacoco 生成报告
 
@@ -430,7 +430,7 @@ Codecov不支持自己生成Android的测试覆盖率报告，它能做的是接
 	        exclude group: 'com.android.support', module: 'support-annotations'
 	    })
 
-2) 在 需要构建测试覆盖率报告的Module  （AndroidBadge 项目中的 app）  的gradle文件中设置。 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-101.png)
+2) 在 需要构建测试覆盖率报告的Module  （AndroidBadge 项目中的 app）  的gradle文件中设置。 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-101.png)
 
 	debug{
 	        testCoverageEnabled true
@@ -450,7 +450,7 @@ Codecov不支持自己生成Android的测试覆盖率报告，它能做的是接
 	    - bash <(curl -s https://codecov.io/bash)
 	
 
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-102.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-102.png)
 
 
 
@@ -508,14 +508,14 @@ Codecov不支持自己生成Android的测试覆盖率报告，它能做的是接
 
 Travis-CI 对 android 的单元测试支持不是很好，因为需要开启虚拟机，开启这个过程就得10分钟（我的测试时间），很耗费时间。有时候也连接不上，一次跑下来估计得个 20分钟左右吧。所以，稳定性确实不是很高。如果不做单元测试，而只是做发布之类的，稳定性还是高的。 
 
-单元测试应都会吧， 这里检测的标准就是说 每个类和方法都必须检测到，否则就算没有覆盖。我这里也就简单在项目中写过例子，剩下的你们自己玩吧。 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-103.png)
+单元测试应都会吧， 这里检测的标准就是说 每个类和方法都必须检测到，否则就算没有覆盖。我这里也就简单在项目中写过例子，剩下的你们自己玩吧。 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-103.png)
 
 **所以 要不要使用单元测试 还是根据项目决定吧。 **
 
 
 ##### 获取 codecov 的徽章
 
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-104.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-104.png)
 
 ### Api\_Level 的使用
 让 codecov 慢慢构建吧，我们先继续。
@@ -525,9 +525,9 @@ Travis-CI 对 android 的单元测试支持不是很好，因为需要开启虚�
 ##### Api\_Level 有什么用？
 Api\_Level 是 arsenal 网站给各位开发者的一个福利，我们的 android 开源项目一般都有一个最低的构建版本。平时我们都是在 md 文件中写上 支持版本是 14+等很多样式，但是 不够醒目，有了 Api\_Level 后，打开开源项目主页就知道，最低版本是多少。 不用看文档也能明白，轻松不少。 对应的 api 的一些特性和修改也能在这里展现。
 ##### Api\_Level 怎么玩？
-如果你的开源项目最低支持版本是：14，那么就选择这里：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-105.png) ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-106.png)
+如果你的开源项目最低支持版本是：14，那么就选择这里：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-105.png) ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-106.png)
 
-把这个拷贝下来，放入我们的 md 文档中吧。 ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-107.png)
+把这个拷贝下来，放入我们的 md 文档中吧。 ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-107.png)
 
 
 ### codacy 的使用
@@ -539,15 +539,15 @@ codacy 编程代码自动审查服务平台，可以帮我们分析存在的问�
 
 ##### codacy 怎么使用？
 
-进入官网，添加自己的需要的 project。![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-108.png)
+进入官网，添加自己的需要的 project。![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-108.png)
 
 完成后，等待一段时间就好了，会给你发邮件通知，已经完成。
 
-完成后的效果是：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-109.png)，咱们的这个项目评级是 B。
+完成后的效果是：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-109.png)，咱们的这个项目评级是 B。
 
 ##### codacy 徽章呢？
 
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-110.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-110.png)
 
 拷贝下来，手动放到 咱们的项目的 md 文档中把。比较放心一些，如果点击后面的 add badge ,会自动加到项目中，需要我们 pull request 里面处理下。
 
@@ -559,13 +559,13 @@ codacy 编程代码自动审查服务平台，可以帮我们分析存在的问�
 ##### 有什么用？
 彰显个人魅力，体现某种功能。例如咱们做一个跳转到我的博客的 个人徽章。
 ##### 怎么玩？
-滚动网页到最下面：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-111.png)
+滚动网页到最下面：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-111.png)
 
 在对应的地方填写相应的东西（也支持中文哦）， 完成后点击后面的 Make Badge 按钮试试看。
 
-我想我的个人图标是这种浅蓝色： ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-112.png) ，那么我就在 color 中直接写：7AD6FD
+我想我的个人图标是这种浅蓝色： ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-112.png) ，那么我就在 color 中直接写：7AD6FD
 
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-113.png) 点击生成 一个地址， 先保存下面。
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-113.png) 点击生成 一个地址， 先保存下面。
 
 
 
@@ -584,14 +584,14 @@ A 表示的页面中需要显示的内容， B 表示的是图片的地址，D �
 
 把这段代码 粘贴到 我们的 md 文档中，个性专属徽章就出来了，而且点击后能到我们想去的地方。
 
-![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-114.png)
+![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-114.png)
 
 很酷吧，其实还可以做很多这样的事情。
 
 
 
 本文的 中的 项目地址是： [https://github.com/gdky005/AndroidBadge](https://github.com/gdky005/AndroidBadge)
-需要逐步了解项目的过程或者 根据步骤出现问题的话，可以check 对应的节点，看看代码是否不同，然后自行修改，我特意保存了该进度。如果下图中 git提交的记录：![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-115.png)  ![](http://7xlcno.com1.z0.glb.clouddn.com/gbg/kaiyuan/md/gbg-kaiyuan-md-116.png) 
+需要逐步了解项目的过程或者 根据步骤出现问题的话，可以check 对应的节点，看看代码是否不同，然后自行修改，我特意保存了该进度。如果下图中 git提交的记录：![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-115.png)  ![](https://raw.githubusercontent.com/gdky005/AndroidBadge/master/pic/gbg-kaiyuan-md-116.png) 
 
 相信小伙伴们肯定能做出更有意思的东西，到时候记得与我和大家分享，比较有特色的，我会将你们的链接挂载到 github 项目里面。
 
